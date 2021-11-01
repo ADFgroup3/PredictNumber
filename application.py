@@ -1,6 +1,5 @@
 from flask import Flask,render_template,request
 import PIL.Image
-import PIL.ImageTk
 #機械学習で使うモジュール
 import sklearn.datasets
 import sklearn.svm

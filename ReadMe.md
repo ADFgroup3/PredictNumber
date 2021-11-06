@@ -1,5 +1,5 @@
 HTMLを編集する人はtemplateフォルダーのpage.htmlを編集してください<br>
-Pythonを編集する場合はapplication.pyを編集して、モジュールをインポートする場合はモジュール名とバージョンをrequirement.txtに書き込んでください
+Pythonを編集する人はapplication.pyを編集して、モジュールをインポートする場合はモジュール名とバージョンをrequirement.txtに書き込んでください
 ---
 
 とりあえず教えてもらったサイトを見ながらやってみた。
